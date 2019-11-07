@@ -63,7 +63,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Yuri Moiseyenko** - *Initial work*
 
-See also the list of [contributors](https://github.com/ymcsoft/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/ymcsoft/soapui-test-framework/contributors) who participated in this project.
 
 ## License
 
