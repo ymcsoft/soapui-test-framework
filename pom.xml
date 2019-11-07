@@ -5,7 +5,7 @@
 
 	<groupId>io.github.ymcsoft</groupId>
 	<artifactId>soapui-test-framework</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>soapui-test-framework</name>
@@ -34,7 +34,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/ymcsoft/soapui-test-framework.git</connection>
 		<developerConnection>scm:git:ssh://github.com:ymcsoft/soapui-test-framework.git</developerConnection>
-		<url>https://github.com/ymcsoft/soapui-test-framework/tree/release_1_0_0</url>
+		<url>https://github.com/ymcsoft/soapui-test-framework/tree/release_1_0_1</url>
 	</scm>
 
 	<repositories>
