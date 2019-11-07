@@ -15,16 +15,16 @@ You need to have jdk 8 or later and maven 3.x or later installed to be able to b
 Clone from GitHub repository
 
 ```
-git clone https://github.com/ymcsoft/function-utils.git
+git clone https://github.com/ymcsoft/soapui-test-framework.git
 ```
 
 And build
 
 ```
-cd function-utils
+cd soapui-test-framework
 mvn package
 ```
-It will produce **function-utils-{version}.jar** artifact in the *target* directory
+It will produce **soapui-test-framework-{version}.jar** artifact in the *target* directory
 
 ## Running the tests
 
