@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="API test suite" verbose="1">
+ <test name="API Test">
+  <classes>
+   <class name="com.ymcsoft.test.soapui.RestProjectTest" />
+   <class name="com.ymcsoft.FileUtilTest" />
+  </classes>
+ </test>
+</suite>
